@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gantu.co.za/sitemap.xml
